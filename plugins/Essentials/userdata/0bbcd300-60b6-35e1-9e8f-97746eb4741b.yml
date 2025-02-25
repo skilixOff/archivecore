@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 89.33.12.205
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1739706466699
+  login: 1739705689764
+money: '0'
+last-account-name: DIO02766
+logoutlocation:
+  world: a6c81404-e333-4e51-a90b-58885e2b839c
+  world-name: world
+  x: 382.5
+  y: 114.0
+  z: -721.5
+  yaw: -82.60482788085938
+  pitch: 7.7675933837890625

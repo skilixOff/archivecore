@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 89.33.12.233
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1738941287018
+  login: 1738941022723
+money: '0'
+last-account-name: verden
+logoutlocation:
+  world: a6c81404-e333-4e51-a90b-58885e2b839c
+  world-name: world
+  x: 381.2731472885522
+  y: 116.0
+  z: -734.0507301874222
+  yaw: 179.69973754882812
+  pitch: -28.6500186920166

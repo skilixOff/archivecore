@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 89.33.12.235
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1739886806537
+  login: 1739886580239
+money: '0'
+last-account-name: Phantom809
+logoutlocation:
+  world: a6c81404-e333-4e51-a90b-58885e2b839c
+  world-name: world
+  x: 5000.337542944773
+  y: 73.0
+  z: 296.49100919316135
+  yaw: 173.39869689941406
+  pitch: 7.800205230712891

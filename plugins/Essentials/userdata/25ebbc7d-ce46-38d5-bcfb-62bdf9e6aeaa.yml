@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 178.176.73.79
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1738311256325
+  login: 1738311065824
+money: '0'
+last-account-name: tycoon_ds
+logoutlocation:
+  world: a6c81404-e333-4e51-a90b-58885e2b839c
+  world-name: world
+  x: 1917.1292274007963
+  y: 202.0
+  z: -2416.064741334932
+  yaw: 65.8499755859375
+  pitch: 11.399985313415527

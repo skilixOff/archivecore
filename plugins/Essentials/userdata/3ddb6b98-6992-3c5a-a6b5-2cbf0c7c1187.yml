@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 89.33.12.252
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1739807945637
+  login: 1739807798885
+money: '0'
+last-account-name: hiniikrus
+logoutlocation:
+  world: a6c81404-e333-4e51-a90b-58885e2b839c
+  world-name: world
+  x: 6626.6507062266455
+  y: 163.35099662090116
+  z: -2645.6607171983037
+  yaw: 90.45004272460938
+  pitch: 42.15005111694336

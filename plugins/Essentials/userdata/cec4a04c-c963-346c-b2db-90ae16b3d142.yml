@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 89.33.12.206
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1739131567755
+  login: 1739129151465
+money: '0'
+last-account-name: Bav_Enderman_pro
+logoutlocation:
+  world: a6c81404-e333-4e51-a90b-58885e2b839c
+  world-name: world
+  x: 565.4705256652572
+  y: 168.0
+  z: -1803.699999988079
+  yaw: 1.2001177072525024
+  pitch: 27.74997901916504

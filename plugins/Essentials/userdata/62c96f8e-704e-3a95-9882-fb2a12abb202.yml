@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 89.33.12.204
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1740255787436
+  login: 1740249947691
+money: '0'
+last-account-name: _wushuman_
+logoutlocation:
+  world: a6c81404-e333-4e51-a90b-58885e2b839c
+  world-name: world
+  x: -6029.300000011921
+  y: 137.32459934844232
+  z: 3858.5873222392192
+  yaw: -102.99981689453125
+  pitch: 14.311488151550293

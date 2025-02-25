@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 185.233.246.49
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1738336175433
+  login: 1738336140931
+money: '0'
+last-account-name: Revuxor
+logoutlocation:
+  world: a6c81404-e333-4e51-a90b-58885e2b839c
+  world-name: world
+  x: 5001.699999988079
+  y: 101.0
+  z: 5001.300000011921
+  yaw: -4.049939155578613
+  pitch: 13.50001049041748

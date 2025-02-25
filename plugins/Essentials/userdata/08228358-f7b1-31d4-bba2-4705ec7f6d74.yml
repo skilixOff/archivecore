@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 89.33.12.246
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1738527839201
+  login: 1738527324103
+money: '0'
+last-account-name: DogDayFetchMe
+logoutlocation:
+  world: a6c81404-e333-4e51-a90b-58885e2b839c
+  world-name: world
+  x: 952.0616870578274
+  y: 189.44196062063912
+  z: -1802.0564264057364
+  yaw: -141.76173400878906
+  pitch: 29.949644088745117

@@ -1,0 +1,36 @@
+# plugin prefix
+prefix: ' '
+
+# messages that support placeholders have them listed as comments on the right of the message
+# hexadeciaml color codes are also supported (e.g. #ff0000, #00ff00)
+# if you need # in your string but not as a color code, escape it with \ (e.g. \#hashtag)
+
+# general messages
+reload-success: '#d1cdc0Плагин #e6cae5успешно #d1cdc0перезагружен&7.'
+reload-fail: '#e6cae5Не удалось #d1cdc0перезагрузить плагин&7.'
+invalid-command: '#e6cae5Неизвестная #d1cdc0команда&7.'
+invalid-syntax: '&cInvalid syntax, type &6/phide help&c!'
+no-permission: '&cYou do not have the permission to run this command!'
+player-not-exist: '&cThe player name you entered does not exist!' # %player%
+
+# toggle messages
+toggle-self-success: '#d1cdc0Все игроки #e6cae5%state%&7.' # %player%, %state%
+toggle-others-success: '&aVisibility for &b%player% &ahas been toggled to: &b%state%' # %player%, %state%
+toggle-self-fail: '&cFailed to toggle visibility!' # %player%
+toggle-others-fail: '&cFailed to toggle visibility for &b%player%&c!' # %player%
+toggle-self-region-denied: '&cUnable to toggle visibility in current region!'
+toggle-others-region-denied: '&cUnable to toggle visibility due to region &b%player% &cis in!'
+
+# state messages
+# the keyword used in %state% placeholders in above toggle messages in case you wish to use other terms
+visible-state: 'показаны'
+hidden-state: 'скрыты'
+
+# format for help command
+help-header: '&b----- &6Commands &b-----'
+help-body: |
+  &a/phide help &b- view the list of commands
+  &a/phide toggle &b- toggle self visibility of other players
+  &a/phide toggle <name> &b- toggle a specific player's visibility of other players
+  &a/phide reload &b- reload the plugin
+help-footer: '&6Type &e/phide help %page% &6to view next page' # %page% is the next page number

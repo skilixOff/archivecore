@@ -1,0 +1,34 @@
+priority: 0
+
+condition: ''
+
+profiles:
+  - motd:
+      - '<center>⛤ <gradient:#e6cae5:#d1cdc0>ĂrčhïveCǫrę</gradient> ⛤'
+      - '<center><#d1cdc0>Воспоминания бесценны, без них мы слепы.'
+  - motd:
+      - '<center>⛤ <gradient:#e6cae5:#d1cdc0>ĂrčhïveCǫrę</gradient> ⛤'
+      - '<center><#d1cdc0>Воспоминания - окна в понимание себя.'
+  - motd:
+      - '<center>⛤ <gradient:#e6cae5:#d1cdc0>ĂrčhïveCǫrę</gradient> ⛤'
+      - '<center><#d1cdc0>Мы погружаемся в грёзы и забываем жить.'
+
+favicon: 'favicon.png'
+
+playerCount:
+  hidePlayers: false
+  hidePlayersHover: false
+  hover:
+  text: ''
+
+  extraPlayers:
+    enabled: false
+    amount: 0
+  
+  maxPlayers:
+    enabled: false
+    amount: 0
+
+  onlinePlayers:
+    enabled: false
+    amount: 0

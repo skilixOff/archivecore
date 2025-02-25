@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 89.33.12.250
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1740253667936
+  login: 1740252162985
+money: '0'
+last-account-name: StepanLe
+logoutlocation:
+  world: a6c81404-e333-4e51-a90b-58885e2b839c
+  world-name: world
+  x: -6099.279317355635
+  y: 137.03229341226498
+  z: 3989.7852864423353
+  yaw: -171.425537109375
+  pitch: -0.6000002026557922

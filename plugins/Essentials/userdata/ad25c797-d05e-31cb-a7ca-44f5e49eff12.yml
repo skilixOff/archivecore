@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 91.207.115.63
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1738343899684
+  login: 1738343573849
+money: '0'
+last-account-name: Mr_Moneger
+logoutlocation:
+  world: a6c81404-e333-4e51-a90b-58885e2b839c
+  world-name: world
+  x: -757.5
+  y: 81.0
+  z: 101.2433792567095
+  yaw: 96.45001983642578
+  pitch: 7.500000953674316

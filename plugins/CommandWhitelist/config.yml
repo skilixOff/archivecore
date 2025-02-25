@@ -1,0 +1,31 @@
+
+# Messages use MiniMessage formatting (https://docs.adventure.kyori.net/minimessage/format)
+messages:
+  prefix: ''
+  command_denied: <#d1cdc0>Команда</#d1cdc0> <#e6cae5>не найдена</#e6cae5><grey>.</grey>
+  subcommand_denied: <#d1cdc0>Аргумент команды</#d1cdc0> <#e6cae5>не найдена</#e6cae5><grey>.</grey>
+  no_permission: <#d1cdc0>Команда</#d1cdc0> <#e6cae5>не найдена</#e6cae5><grey>.</grey>
+  no_such_subcommand: <#d1cdc0>Аргумент команды</#d1cdc0> <#e6cae5>не найдена</#e6cae5><grey>.</grey>
+  config_reloaded: <#d1cdc0>Конфиг</#d1cdc0> <#e6cae5>перезагружен</#e6cae5><grey>.</grey>
+  added_to_whitelist: <yellow>Whitelisted command <gold>%s <yellow>for permission
+    <gold>%s
+  removed_from_whitelist: <yellow>Removed command <gold>%s <yellow>from permission
+    <gold>%s
+  group_doesnt_exist: <red>Group doesn't exist or error occured
+
+# Do not enable if you don't have issues with aliased commands.
+# This requires server restart to take effect.
+use_protocollib: false
+message_type: CHAT
+groups:
+  default:
+    commands:
+    - spawn
+    - location
+    - fly
+    - login
+    - register
+    - changepassword
+    - unregister
+    - spec
+    subcommands: null
