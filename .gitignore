@@ -1,0 +1,15 @@
+# Пустые файлы миров
+world_nether
+world_the_end
+
+# Различные директории, генерируемые при запуске
+logs
+libraries
+cache
+
+# Другие файлы
+banned-ips.json
+banned-players.json
+help.yml
+commands.yml
+permissions.yml

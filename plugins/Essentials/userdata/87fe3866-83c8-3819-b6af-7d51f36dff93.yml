@@ -16,8 +16,8 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1740496137263
-  login: 1740496111137
+  logout: 1740720001657
+  login: 1740720010514
   kits:
     color: 1738047064991
 money: '0'
@@ -28,8 +28,8 @@ logoutlocation:
   x: 5001.5
   y: 101.0
   z: 5001.5
-  yaw: -111.60001373291016
-  pitch: -21.000001907348633
+  yaw: 87.75006103515625
+  pitch: 20.699935913085938
 lastlocation:
   world: a6c81404-e333-4e51-a90b-58885e2b839c
   world-name: world
