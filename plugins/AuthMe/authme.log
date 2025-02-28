@@ -3839,3 +3839,22 @@
 [02-28 12:18:25]: [INFO] You are running the latest version.
 [02-28 12:19:55]: [INFO:FINE] SkiLiX_ logged in 127.0.0.1
 [02-28 12:20:10]: [INFO:FINE] SkiLiX_ logged in 127.0.0.1
+[02-28 14:28:09]: [INFO] AuthMe 5.7.0-FORK-b53 is unloaded successfully!
+[02-28 21:10:22]: [INFO] SQLite Setup finished
+[02-28 21:10:22]: [INFO] Hooked into LuckPerms!
+[02-28 21:10:22]: [INFO] Hooked successfully into Essentials
+[02-28 21:10:22]: [INFO] Essentials spawn file not found: 'D:\MinecraftServers\Servers\localhost-archivecore\plugins\Essentials\spawn.yml'
+[02-28 21:10:23]: [WARN] Failed to compile pattern '[]*' - defaulting to allowing everything
+[02-28 21:10:23]: [INFO] 
+    ___         __  __    __  ___   
+   /   | __  __/ /_/ /_  /  |/  /__ 
+  / /| |/ / / / __/ __ \/ /|_/ / _ \
+ / ___ / /_/ / /_/ / / / /  / /  __/
+/_/  |_\__,_/\__/_/ /_/_/  /_/\___/ 
+                                    
+[02-28 21:10:23]: [INFO] AuthMeReReloaded is running on Paper
+[02-28 21:10:23]: [INFO] AuthMeReReloaded is enabled successfully!
+[02-28 21:10:23]: [INFO] GitHub: https://github.com/HaHaWTH/AuthMeReReloaded/
+[02-28 21:10:23]: [INFO] Checking for updates...
+[02-28 21:10:26]: [INFO] You are running the latest version.
+[02-28 21:10:49]: [INFO] AuthMe 5.7.0-FORK-b53 is unloaded successfully!

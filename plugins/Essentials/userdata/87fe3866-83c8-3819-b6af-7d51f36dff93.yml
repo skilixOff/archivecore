@@ -16,7 +16,7 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1740720001657
+  logout: 1740727689924
   login: 1740720010514
   kits:
     color: 1738047064991
@@ -25,11 +25,11 @@ last-account-name: SkiLiX_
 logoutlocation:
   world: a6c81404-e333-4e51-a90b-58885e2b839c
   world-name: world
-  x: 5001.5
+  x: 5001.300000011921
   y: 101.0
-  z: 5001.5
-  yaw: 87.75006103515625
-  pitch: 20.699935913085938
+  z: 5001.690019451701
+  yaw: 89.85001373291016
+  pitch: 20.699954986572266
 lastlocation:
   world: a6c81404-e333-4e51-a90b-58885e2b839c
   world-name: world

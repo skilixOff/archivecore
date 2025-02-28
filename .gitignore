@@ -1,11 +1,11 @@
 # Пустые файлы миров
-world_nether/
-world_the_end/
+/world_nether/
+/world_the_end/
 
 # Различные директории, генерируемые при запуске
-logs/
-libraries/
-cache/
+/logs/
+/libraries/
+/cache/
 
 # Другие файлы
 banned-ips.json
